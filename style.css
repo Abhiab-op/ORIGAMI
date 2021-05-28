@@ -1,0 +1,23 @@
+h1{
+    color: rgb(32, 190, 218);
+    text-align: center;
+    background-color:rgb(77, 66, 64) ;
+}
+.info{
+    justify-content: space-around;
+    display: flex;
+}
+.tex {
+    border: 2px solid black;
+    border: 50%;
+    display: flex;
+}
+.ori{
+    border-top: 500;
+    display:inline-block;
+}
+.ra{
+    border: 2px solid black;
+    border: 50%;
+    display: flex;
+}
